@@ -38,7 +38,7 @@ img {
 }
 /*section 2*/
 .hero {
-    background-image: url(product.jpg);
+    background-image: url(product-BG.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
