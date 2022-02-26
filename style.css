@@ -329,9 +329,8 @@ width: 100%;
     color: #ffffff;
     text-align: center;
     line-height: 35px;
-  
-    margin-right: 3px;
-    margin-bottom: 5px;
+    padding-top: 7px;
+     
   }
 
   /*--------------footer to be responsive, these media queries--------------------------*/
